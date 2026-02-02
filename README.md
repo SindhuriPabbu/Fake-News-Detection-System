@@ -20,7 +20,6 @@ Python 3.x
 1. Clone the repository
 ```
 git clone <repo-url>
-cd fake-news-detection
 ```
 2. Install dependencies
 ```
